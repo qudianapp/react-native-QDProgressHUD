@@ -9,8 +9,6 @@ import {
 } from 'react-native';
 import PropTypes from 'prop-types';
 
-const { QDProgressHud } = NativeModules;
-
 
 export default class QDProgressHud extends Component {
     constructor(props) {
